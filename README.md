@@ -1,4 +1,4 @@
------> [Download the Blender plugin from here!](https://github.com/Riccardo-Foschi/IntersCrvs-Blender/releases/download/v1.0/intersection_snap_tools_05.zip) <-----
+-----> [Download the Blender plugin from here!](https://github.com/Riccardo-Foschi/IntersCrvs-Blender/releases/download/v1.6/intersection_snap_tools_16.zip) <-----
 
 
 Download the zip file and drag and drop it in Blender viewport to install.
